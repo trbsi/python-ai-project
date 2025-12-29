@@ -1,3 +1,6 @@
+# About
+This was a project started for a 3rd party which later on gave up. It should use ChatGPT to generate specific responses related to sales funnel
+
 # Docs
 
 - [ServerManagement](./docs/ServerManagement.md)
